@@ -26,7 +26,7 @@
 ##### * Corpus is Stored at [Sangita Data](https://github.com/SangitaNLP/sangita_data)
 
 ## License 
-#### The code and the models are distributed under the Apache 2.0 License. 
+#### The code and the models are distributed under the [Apache 2.0 License](https://github.com/NJACKWinterOfCode/sangita/blob/master/LICENSE). 
 #### We have used the following datasets and their respective Liesnses are enclosed along with them. 
 * #### Hindi Dependency Treebank - LANGUAGE TECHNOLOGIES RESEARCH CENTER, IIIT Hyderabad.
    * #### Creative Commons License Attribution-NonCommercial-ShareAlike 4.0 International.
